@@ -1,0 +1,16 @@
+body {
+    background-image: url(13.png);
+    background-size: cover;
+}
+h1#head {
+    color: #ff767676;
+}
+h5.littlehead {
+    color:#ff767676
+}
+h6.mostlittlehead {
+    color:#ff767676
+}
+.text {
+    color: #ffff;
+}
